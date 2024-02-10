@@ -1,4 +1,4 @@
-Gemini ATS Resume Tracker
+# Gemini ATS Resume Tracker
 
 The Gemini ATS Resume Tracker is a comprehensive end-to-end solution designed to streamline the recruitment process by leveraging the power of Google's Gemini Pro platform. This project aims to provide recruiters and hiring managers with a robust tool for managing and tracking resumes through Applicant Tracking Systems (ATS).
 
